@@ -1,3 +1,3 @@
 # LemmingsLand
 
-*A Haskell classical game of Lemmings*
+*A classical game of Lemmings, built with, powered by and centered around Haskell !!!*
